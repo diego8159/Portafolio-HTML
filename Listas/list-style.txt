@@ -1,0 +1,2 @@
+se puede conbinar varios atributos anteriores como position, image, type.
+este astributo sirve ademas para el caso de que no se vea una imagen se remplace por otra de repuesto.

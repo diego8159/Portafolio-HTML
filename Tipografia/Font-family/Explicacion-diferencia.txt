@@ -1,0 +1,7 @@
+fuente generica hay 5:
+
+1- sans-serif: se caracteriza por tener terminaciones planas, ser proporsionalmente espaciadas y tener pocas variaciones entre plazos gordos y finos.
+2- serif: se caracteriza por tener extremos afilados, son proporsionalmente espaciadas y a diferencia que sans-serif exsiden una mayor variacion entre trazos gordos y finos.
+3- monospace: se caracteriza por que todos los grifos tengan un mismo ancho fijo.
+4- fantasy: se caracteriza por ser solamente decorativas.
+5- cursive: se caracteriza por tener un estilo de escritura informal el resultado parece como si fuece escrito por una pluma.

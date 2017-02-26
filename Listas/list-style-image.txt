@@ -1,0 +1,1 @@
+cambia el estilo de las viletas con imagenes. por ejemplo: list-style-image: url(https://devcode.la/static/arrow.png)

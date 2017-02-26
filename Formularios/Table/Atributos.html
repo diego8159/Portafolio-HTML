@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang=es>
+<head>
+	<meta charset="UTF-8">
+	<title>Tablas-Atributos</title>
+	<link rel="stylesheet" type="text/css" href="style-Atributos.css">
+</head>
+<body>
+	<table>
+		<caption>Lista de clientes</caption>
+		<thead>
+			<tr> 
+				<th scope="col" rowspan="2">Codigo</th>
+				<th scope="col" colspan="3" id="datos">Datos personales</th>
+			</tr>
+			<tr>
+				<th scope="col" header="datos">Nombres</th>
+				<th scope="col" header="datos">Apellidos</th>
+				<th scope="col" header="datos">Email</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+			   <td>Luis Miguel</td>
+			   <td>Linares Castillo</td>
+			   <td>luislinares@outlook.com</td>
+		</tr>
+		<tr>
+				<td>2</td>
+			   <td>Juan Carlos</td>
+			   <td>Rodrigo Paredes</td>
+			   <td>juanrodrigo@gmail.com</td>
+		</tr>
+		<tr>
+				<td>3</td>
+			   <td>Jose Ignacio</td>
+			   <td>Guevara Ramirez</td>
+			   <td>joseguevara@yahoo.com</td>
+		</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<th scope="row">Total</th>
+				<td></td>
+				<td></td>
+				<td>3</td>
+			</tr>
+		</tfoot>
+
+	</table>
+</body>
+</html>

@@ -1,0 +1,2 @@
+le asigna una posicion al texto al lado de la viñeta. por ejemplo: list-style-position: outside;
+es decir nos ayuda a ubicar nuestro contenido de acuerdo a la viñeta.

@@ -1,0 +1,13 @@
+body,h1{
+	margin: 0;
+}
+section{
+	text-align: center;
+	width: 300px;
+	height: 600px;
+	margin: 0;
+	overflow-y: scroll;
+	background-color: lightgreen;
+	background-image: url(http://dermatologia-bagazgoitia.com/wp-content/uploads/2014/05/sol-2-291x300.jpg);
+	background-attachment: local;
+}

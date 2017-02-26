@@ -1,0 +1,1 @@
+Este atributo se utiliza para cambiar el diseño de las viñetas de cada elemento como por ejemplo: circulo, cuadrado, nuemeracion, numero-romano,etc.
